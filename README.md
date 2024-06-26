@@ -11,6 +11,11 @@ Este projeto consiste em montar um back-end de cadastros restaurantes.
 
 - [Python](https://www.python.org/)
 
+
+## ⚙️ Instalação
+
+Para que este rode em sua máquina, siga os passos abaixo:
+
 ```bash
 # Clone o repositório em alguma pasta em sua máquina
 
